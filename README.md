@@ -6,4 +6,4 @@ The core functionalities are encapsulated within the `TaylorPODA_engine`.
   please run `explain_concrete.py`. This enables a relatively fair comparison among different explanation methods.
 
 - To generate an **approximated TaylorPODA explanation** for an MNIST image,  
-  please run `MNIST.py`.
+  please run `MNIST_v5.py`.
