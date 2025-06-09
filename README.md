@@ -7,3 +7,5 @@ The core functionalities are encapsulated within the `TaylorPODA_engine`.
 
 - To generate an **approximated TaylorPODA explanation** for an MNIST image,  
   please run `MNIST_v5.py`.
+
+The `weightedSHAP/` directory includes code adapted from the [WeightedSHAP] repository (https://github.com/ykwon0407/WeightedSHAP) that, while publicly available, does not include a formal open-source license. Permission to use and adapt this code was kindly granted by the original authors via email correspondence. We are grateful for their generosity in allowing its inclusion in this project.
