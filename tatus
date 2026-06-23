@@ -1,0 +1,162 @@
+[33mcommit d31cacfab80fbfb4f0936bbe1f0ed230747b21ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Sat Nov 30 17:27:07 2024 +0000
+
+    Rebuild SHAP explanation using WeightedSHAP framework
+
+[33mcommit 5f5f8a39c8983d6cb3a9c43a241da0bed272ffb8[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Sat Nov 30 10:52:08 2024 +0000
+
+    Established a collective .py for 4 tasks again and again
+
+[33mcommit b963eaf0bfdcee617c3949e40229ee2fc586728d[m
+Author: Yuchi <ytang87@gmail.com>
+Date:   Fri Nov 29 11:46:16 2024 +0000
+
+    StorageHouse established for a more sleek working environment
+
+[33mcommit b8a5328cf02abc15907ca16da19dca6605054cd8[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Thu Nov 28 21:55:58 2024 +0000
+
+    Established a collective .py for 4 tasks again
+
+[33mcommit f1beb2e77c53cc30ba126d1a196703d8db42b5f7[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Thu Nov 28 21:53:37 2024 +0000
+
+    Established a collective .py for 4 tasks
+
+[33mcommit 87994da746d2a0ed860f1d25b2537729beadf0c9[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Thu Nov 28 14:59:38 2024 +0000
+
+    Output structure refined
+
+[33mcommit abd49b5a139fde379c5ebc6dda1f14f4699a4eff[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Thu Nov 28 12:24:22 2024 +0000
+
+    New dataset airfoil, four datasets unified, time observer added
+
+[33mcommit cddecf461e69c3ed74c5429e893ade9b7a415bf9[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Thu Nov 28 12:22:36 2024 +0000
+
+    New dataset airfoil, four datasets unified, time observer added
+
+[33mcommit 74c7af89d7001f76056e7ec6a3dd50a318d31626[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Mon Nov 25 10:20:27 2024 +0000
+
+    wshap added california, wshap_PODA_overflow
+
+[33mcommit 0c28d6362a1f28e5dd3cc80f60247012a9a3cb48[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Mon Nov 25 10:17:52 2024 +0000
+
+    wshap added california
+
+[33mcommit 5dc2a0e5eb6094d19a06fdd8b78f338da277df25[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Sun Nov 24 14:26:46 2024 +0000
+
+    Cloud Computing Adaptable Edition _v0; requirements updated again again
+
+[33mcommit 90ec678ee77efa64c3493ec279d8a370a1327791[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Sat Nov 23 23:39:52 2024 +0000
+
+    Cloud Computing Adaptable Edition _v0; requirements updated again
+
+[33mcommit 1eb8c45adeedc1f05f14fdcc65e9d8582bf968fb[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Sat Nov 23 23:31:40 2024 +0000
+
+    Cloud Computing Adaptable Edition _v0; requirements updated
+
+[33mcommit 1147ca176afc24544cd44aa50e2c1eb800b3e337[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Sat Nov 23 22:39:12 2024 +0000
+
+    Cloud Computing Adaptable Edition _v0
+
+[33mcommit 7ad339a7e2d216ab7a4f66c13dc70ea63f08cb20[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Sat Nov 23 20:59:38 2024 +0000
+
+    Established requirements(txt) ; added MINST9_i5 test
+
+[33mcommit 5db04c6d4e7915447872e370bd0db3fb2f551f5a[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Fri Nov 22 17:02:57 2024 +0000
+
+    Illustration on MNIST39 data with SHAP\WeightedSHAP\TaylorPODA.
+
+[33mcommit 08215ee50cdc6ec45495c2c862c50dd5c598cab0[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Fri Nov 15 17:00:04 2024 +0000
+
+    Introduce whitebox analysis with motivational experiments, and plotting the similarity with 2D illustration.
+
+[33mcommit 983074d374dd06d6e6b40a64815a6d221f87e485[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Thu Nov 14 17:53:12 2024 +0000
+
+    Introduce whitebox analysis as motivational experiments, and plotting the distortion with 2D illustration.
+
+[33mcommit 40cd903f1a435a17f92040e767615f22d92d7c89[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Wed Nov 13 14:03:49 2024 +0000
+
+    Introduce whitebox analysis as motivation
+
+[33mcommit 9d1c8be455b5c286d097dabc86b5e56c05ea2241[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Wed Nov 13 00:48:31 2024 +0000
+
+    Introduce parallel explanation methods so that can compare PODA, OCC1, SHAP, LIME.
+
+[33mcommit 530052ca46465f1c8bd4fb7e0ae94e968a334969[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Fri Nov 8 18:19:29 2024 +0000
+
+    ML test, as well as uploading model-adapted optimizable attribution
+
+[33mcommit 3e05be005919693eb0e64c414490573136867975[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Tue Nov 5 15:23:29 2024 +0000
+
+    Develop & Test v1 Taylor-PODA with optimised Dirichlet weights for interactional effect
+
+[33mcommit 2cd7f51c656c61a79ff730be34c2e054cfe03dd8[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Fri Nov 1 15:03:35 2024 +0000
+
+    Develop & Test v1 Taylor-PODA with optimised Dirichlet weights for interactional effect
+
+[33mcommit acfd81bf378b714369686c3081395cfbdb3641c2[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Thu Oct 31 13:31:00 2024 +0000
+
+    Test update.
+
+[33mcommit c5e55d8faafc2bc3ee2e5b5448c88ee8fdf854fa[m
+Merge: 5f24d32 831207b
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Thu Oct 31 13:23:24 2024 +0000
+
+    First sub
+
+[33mcommit 5f24d32fff36fee4173649da4fadcac764e2b699[m
+Author: Yuchi Tang <ytang87@sheffield.ac.uk>
+Date:   Thu Oct 31 13:02:45 2024 +0000
+
+    First sub; basic capability of attribution (Shapley) without adaptive weighting
+
+[33mcommit 831207be47089e1d07624519069b1e607cbc2ce8[m
+Author: Yuchi-TANG-Research <168305613+Yuchi-TANG-Research@users.noreply.github.com>
+Date:   Thu Oct 31 11:56:26 2024 +0000
+
+    Initial commit
