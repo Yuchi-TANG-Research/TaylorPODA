@@ -12,10 +12,10 @@ datasets/tic_tac_toe_endgame_cls.csv
 approx_justif.py
 data_classif.py
 explain_california_cs.py
-explain_classif.py
 explain_classif_c_approx.py
-explain_regrs.py
 explain_regrs_c_approx.py
+explain_classif.py
+explain_regrs.py
 imagenet_data_prep.py
 imagenet_exp.py
 imagenet_ml.py
