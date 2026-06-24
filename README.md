@@ -20,7 +20,7 @@ python ml_regres.py
 python ml_regres_relu.py
 python ml_regres_xgb.py
 ```
-#### A.2 Explanation Generarion & analysis: 
+#### A.2 Explanation Generarion & Quantitative Performance Analysis: 
 (Please configure the path of the corresponding trained "task_model".)
 ```bash
 python exp_cls.py
